@@ -10,7 +10,7 @@ Your job for this lab is to defuse your bomb by reading the assembly code of the
 
 ## Installation
 
-It is recommended to do this lab on Ubuntu 20.04. I have already modified the binary file of the bomb such that it **works on your local machine as well**. The original bomb in ```bomb1420.tar``` only works on the class machines.
+It is recommended to do this lab on Ubuntu 22.04. I have already modified the binary file of the bomb such that it **works on your local machine as well**. The original bomb in ```bomb1420.tar``` only works on the class machines.
 
 ## Score
 
